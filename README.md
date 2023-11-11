@@ -35,12 +35,12 @@
 ```
 
 ## Extensions
-gitlens
-intellicode
-intellij IDEA keybindings
-prettier
-prisma
-vscode icons
-turbo console log
-inline fold
-todo highlight
+gitlens  <br>
+intellicode <br>
+intellij IDEA keybindings <br>
+prettier <br>
+prisma <br>
+vscode icons <br>
+turbo console log <br>
+inline fold <br>
+todo highlight <br>
